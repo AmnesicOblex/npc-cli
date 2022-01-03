@@ -1,0 +1,19 @@
+{
+  "name": "npc-cli",
+  "version": "0.0.0",
+  "description": "A quick, configurable command line app for on the fly NPC generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AmnesicOblex/npc-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmnesicOblex/npc-cli/issues"
+  },
+  "homepage": "https://github.com/AmnesicOblex/npc-cli#readme"
+}
